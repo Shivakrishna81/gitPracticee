@@ -1,3 +1,3 @@
 # gitPracticee 
 <br>
-author: Shiva Patel
+author: Shiva Patell 
