@@ -2,6 +2,8 @@ import React from 'react'
 
 export const index = () => {
   return (
-    <div>index</div>
+    <div>
+        <p>Shiva Krishna Bandari</p>
+    </div>
   )
 }
