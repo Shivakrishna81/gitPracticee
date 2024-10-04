@@ -5,6 +5,7 @@ export const index = () => {
     <div>
         <p>Shiva Krishna Bandari</p>
         <p>patelllllll</p>
+        <p>kirannnn</p>
     </div>
   )
 }
